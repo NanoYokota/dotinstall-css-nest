@@ -24,3 +24,9 @@
     line-height: 1.6;
   }
 }
+
+@media (width >= 600px) {
+  .card h2 {
+    text-align: left;
+  }
+}
