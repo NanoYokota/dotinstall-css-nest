@@ -6,17 +6,17 @@
   padding: 16px;
   max-width: 600px;
   margin: 0 auto;
-}
 
-.card h2 {
-  margin: 0;
-  border-bottom: 1px solid #ccc;
-  text-align: center;
-  font-size: 18px;
-  padding-bottom: 8px;
-}
+  h2 {
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
 
-.card p {
-  margin: 16px 0 0;
-  line-height: 1.6;
+  p {
+    margin: 16px 0 0;
+    line-height: 1.6;
+  }
 }
