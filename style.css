@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.card {
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  padding: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}
