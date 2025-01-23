@@ -7,6 +7,10 @@
   max-width: 600px;
   margin: 0 auto;
 
+  &:hover {
+    box-shadow: 0 0 8px rgb(0 0 0 / 0.3);
+  }
+
   h2 {
     margin: 0;
     border-bottom: 1px solid #ccc;
